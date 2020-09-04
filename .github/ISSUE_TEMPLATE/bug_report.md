@@ -1,3 +1,8 @@
+---
+name: Bug Report
+about: Use this template for reporting a bug with the product.
+title: "[DATE]: [BUG]"
+---
 ## Description
 
 _provide general introduction to the issue logging and why it is relevant to this repository_
