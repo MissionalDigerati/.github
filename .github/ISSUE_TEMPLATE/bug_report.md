@@ -1,7 +1,8 @@
 ---
 name: Bug Report
 about: Use this template for reporting a bug with the product.
-title: "[DATE]: [BUG]"
+title: "[DATE]: [BUG SHORT DESCRIPTION]"
+labels: bug
 ---
 ## Description
 
