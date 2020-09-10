@@ -30,11 +30,11 @@ _Please describe the tests that you ran to verify your changes. Provide instruct
 
 ## Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] I have squashed my commits into as few commits as possible
+- [ ] I have run the project's linter, and my code has passed.
+- [ ] I have written at least one test for the new code.
+- [ ] I have run the tests according to the project's documentation, and my code has passed the test.
+- [ ] I have well documented my code so another developer can understand what is happening.
+- [ ] If I am patching a critical bug, I have correctly bumped the version number.
+- [ ] I have included the licensing information on all my new files.
+- [ ] I have added my Github username and profile link to the CONTRIBUTORS.md file of the project.
+- [ ] I have squashed my commits into as few commits as possible.
